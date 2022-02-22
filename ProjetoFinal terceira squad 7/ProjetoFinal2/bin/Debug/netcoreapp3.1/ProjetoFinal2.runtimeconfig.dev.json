@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Batata\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Batata\\.nuget\\packages"
+    ]
+  }
+}
